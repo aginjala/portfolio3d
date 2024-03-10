@@ -1,9 +1,16 @@
+import cSharp from './cSharp.svg'
+import dotNetCore from './dotNetCore.svg'
+import dotNet from './dotNet.svg'
+import blazor from './blazor.svg'
+import signalR from './signalR.svg'
 import css from './css.svg'
 import express from './express.svg'
+import azure from './azure.svg'
 import git from './git.svg'
 import github from './github.svg'
 import html from './html.svg'
 import javascript from './javascript.svg'
+import msSql from './msSql.svg'
 import mongodb from './mongodb.svg'
 import motion from './motion.svg'
 import mui from './mui.svg'
@@ -26,14 +33,25 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import microsoft from './microsoft.svg'
+import nuance from './nuance.svg'
+import comcast from './comcast.svg'
+import ciena from './ciena.svg'
 
 export {
+    cSharp,
+    dotNetCore,
+    dotNet,
+    blazor,
+    signalR,
     css,
     express,
+    azure,
     git,
     github,
     html,
     javascript,
+    msSql,
     mongodb,
     motion,
     mui,
@@ -55,5 +73,9 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    microsoft,
+    nuance,
+    comcast,
+    ciena
 }
