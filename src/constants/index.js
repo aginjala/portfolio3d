@@ -252,7 +252,7 @@ export const projects = [
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'Restaurant Application',
-        description: 'Developed a web application for a restaurant, using basic HTML and CSS. Adding animations to enhance the user experience.',
+        description: 'Developed a web application for a restaurant, using basic HTML and CSS. Added animations to enhance the user experience.',
         link: 'https://arsushiplace.vercel.app/',
     },
     {
@@ -260,6 +260,6 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'AI Saas Application',
         description: 'WebApp that uses AI to automatically refine and enhace pictures. The application is developed using NextJs, TypeScript, TailwindCSS, MongoDB..',
-        link: 'https://arimaginify.vercel.app',
+        link: 'https://arpicperfect.vercel.app/',
     }
 ];
