@@ -37,6 +37,7 @@ import microsoft from './microsoft.svg'
 import nuance from './nuance.svg'
 import comcast from './comcast.svg'
 import ciena from './ciena.svg'
+import edmentum from './edmentum.svg'
 
 export {
     cSharp,
@@ -77,5 +78,6 @@ export {
     microsoft,
     nuance,
     comcast,
-    ciena
+    ciena,
+    edmentum
 }

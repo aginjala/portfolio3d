@@ -34,7 +34,8 @@ import {
     microsoft,
     nuance,
     comcast,
-    ciena
+    ciena,
+    edmentum
 } from "../assets/icons";
 
 export const skills = [
@@ -151,7 +152,7 @@ export const experiences = [
         title: "Senior Software Developer",
         company_name: "Microsoft",
         icon: microsoft,
-        iconBg: "#a2d2ff",
+        iconBg: "#FFFACD",
         date: "April 2021 - Present",
         points: [
             "Developing and maintaining web/windows applications using c#, .Net, Blazor, SignalR, Javascript, Typescript, React, Winforms, WPF and other web and windows related technologies.",
@@ -164,7 +165,7 @@ export const experiences = [
         title: "Princial Sofware Developer",
         company_name: "Nuance Communications",
         icon: nuance,
-        iconBg: "#accbe1",
+        iconBg: "#a2d2ff",
         date: "Sep 2017 - Apr 2021",
         points: [
             "Developing and maintaining web applications using c#, .Net Core, Blazor, SignalR, Angular and other web and windows related technologies.",
@@ -177,7 +178,7 @@ export const experiences = [
         title: "Senior Software Developer",
         company_name: "Comcast Bussiness",
         icon: comcast,
-        iconBg: "#b7e4c7",
+        iconBg: "#FFFFE0",
         date: "May 2015 - Sep 2017",
         points: [
             "Developing and maintaining web applications using c#, .Net Core, MVC, Sitecore CMS and other web related technologies.",
@@ -190,7 +191,7 @@ export const experiences = [
         title: "Senior Software Engineer",
         company_name: "Ciena Corporation",
         icon: ciena,
-        iconBg: "#fbc3bc",
+        iconBg: "#b7e4c7",
         date: "Aug 2013 - Apr 2015",
         points: [
             "Developing and maintaining web applications using c#, Asp.Net MVC and other related technologies.",
@@ -199,6 +200,19 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+    {
+        title: "Software Engineer",
+        company_name: "Edmentum",
+        icon: edmentum,
+        iconBg: "#FBC3BC",
+        date: "Oct 2011 - Dec 2012",
+        points: [
+            "Developing and maintaining web applications using c#, Asp.Net and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    }
 ];
 
 export const socialLinks = [
@@ -210,12 +224,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/aginjala',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/aginjala',
     }
 ];
 
@@ -223,30 +237,30 @@ export const projects = [
     /* {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: '',
+        description: '',
+        link: '',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: '',
+        description: '',
+        link: '',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        name: '',
+        description: '',
+        link: '',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        name: '',
+        description: '',
+        link: '',
     }, */
     {
         iconUrl: summiz,
